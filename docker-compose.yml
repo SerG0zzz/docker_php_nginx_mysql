@@ -1,7 +1,7 @@
 version: '3'
 services:
   php:
-    image: serg0cloud/php-fpm_8.2.6_mssql_mysql
+    image: serg0cloud/php-fpm_8.3.2_mssql_pgsql_mysql
     container_name: php
     ports:
       - "9000:9000"
