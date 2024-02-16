@@ -7,7 +7,7 @@
 1. nginx
 2. mysql
 3. phpmyadmin (для удобства)
-4. php-fpm 8 c pdo драйвером для работы с MS SQL
+4. php-fpm 8.3.2 c pdo драйвером для работы с MS SQL, MySQL и Postgre
 
 **Структура директорий**
 
